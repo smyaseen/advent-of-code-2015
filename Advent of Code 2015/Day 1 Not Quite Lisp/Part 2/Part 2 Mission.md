@@ -7,6 +7,6 @@ For example:
 ()()) causes him to enter the basement at character position 5.
 What is the position of the character that causes Santa to first enter the basement?
 ------------------------------------------------
-Puzzle input in santa1.txt 
+Puzzle input in santa2.txt 
 ------------------------------------------------
 Answer : 1795
